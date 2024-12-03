@@ -31,6 +31,7 @@ files {
     'ui/style.css',
 }
 dependencies {
-        'cd_dispatch',
+        'cd_dispatch', --https://docs.codesign.pro/paid-scripts/dispatch
         'ps_mdt_model',
+        'Renewed-Banking', --https://github.com/Renewed-Scripts/Renewed-Banking
 }
